@@ -1,0 +1,8 @@
+E:\work\C project\generateCSV\generateCSV\bin\Release\generateCSV.exe.config
+E:\work\C project\generateCSV\generateCSV\bin\Release\generateCSV.exe
+E:\work\C project\generateCSV\generateCSV\bin\Release\generateCSV.pdb
+E:\work\C project\generateCSV\generateCSV\obj\Release\generateCSV.Form1.resources
+E:\work\C project\generateCSV\generateCSV\obj\Release\generateCSV.Properties.Resources.resources
+E:\work\C project\generateCSV\generateCSV\obj\Release\generateCSV.csproj.GenerateResource.cache
+E:\work\C project\generateCSV\generateCSV\obj\Release\generateCSV.exe
+E:\work\C project\generateCSV\generateCSV\obj\Release\generateCSV.pdb

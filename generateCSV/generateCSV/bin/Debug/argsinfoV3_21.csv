@@ -1,0 +1,7 @@
+﻿#ParameterTable,Never Change This Line,V3.0,,,,,,,,,
+SID,RawCycle,Signal_1,Bandwidth_1,Line_1,Alarm_1,Signal_2,Bandwidth_2,Line_2,Alarm_2,Signal_3,Bandwidth_3,Line_3,Alarm_3,Signal_4,Bandwidth_4,Line_4,Alarm_4,Info
+808,2,ACC,10-5000,1600,,VEL,20-1000,400,4.5,DIS,20-500,400,,TMP,,,,abc
+809,2,ACC,10-5000,1600,,VEL,20-1000,400,4.5,DIS,20-500,400,,TMP,,,,abc
+810,2,ACC,10-5000,1600,,VEL,20-1000,400,4.5,DIS,20-500,400,,TMP,,,,abc
+1234,2,ACC,10-5000,1600,,VEL,20-1000,400,4.5,DIS,20-500,400,,TMP,,,,abc
+
